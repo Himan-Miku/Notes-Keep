@@ -54,6 +54,11 @@ Start the server for React
 Go to Server directory
 
 ```bash
-  nodemon server.js
+  cd server
 ```
 
+Run the server
+
+```bash
+  nodemon server.js
+```
